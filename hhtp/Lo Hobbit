@@ -3,7 +3,36 @@
 <link href="http://getbootstrap.com/dist/css/bootstrap.min.css" rel="stylesheet">
 </head>
 <body>
-<h1><p class="text-center">Lo Hobbit</p></h1>
-<img src="http://i.embed.ly/1/display/resize?key=1e6a1a1efdb011df84894040444cdc60&url=http%3A%2F%2Fa2.mzstatic.com%2Fus%2Fr30%2FVideo%2Fv4%2F74%2F58%2Fbd%2F7458bd87-9060-efcf-69bb-be7670e91d53%2Fmza_1990529959456337464.jpg" alt="128" class="img-rounded">
-</body>
+<ul>
+					<li><a href="#">Home</a></li>
+					<li>
+						<a href="#">Personaggi</a>
+						<ul>
+							<li><a href="ac1.html">Assassin's Creed</a></li>
+							<li><a href="ac2.html">Assassin's Creed II</a></li>
+							<li><a href="acbrotherhood.html">Assassin's Creed: Brotherhood</a></li>
+							<li><a href="acrevelations.html">Assassin's Creed: Revelations</a></li>
+							<li><a href="ac3.html">Assassin's Creed III</a></li>
+							<li><a href="acliberation.html">Assassin's Creed III: Liberation</a></li>
+							<li><a href="ac4.html">Assassin's Creed IV: Black Flag</a></li>
+							<li><a href="acrogue.html">Assassin's Creed: Rogue</a></li>
+							<li><a href="acunity.html">Assassin's Creed: Unity</a></li>
+							<li><a href="acsyndicate.html">Assassin's Creed: Syndicate</a></li>
+							<li><a href="acchronicles.html">Assassin's Creed: Chronichles</a></li>
+						</ul>
+					</li>
+					<li>
+						<a href="#">Film</a>
+						<ul>
+							<li><a href="#">Assassin's Creed: Altaïr's Chronicles</a></li>
+							<li><a href="#">Assassin's Creed: Bloodlines</a></li>
+							<li><a href="#">Assassin's Creed: Discovery</a></li>
+							<li><a href="#">Assassin's Creed: Pirates</a></li>
+							<li><a href="#">Assassin's Creed: Identity</a></li>
+						</ul>
+					</li>
+					
+					<li><a href="info.html">Info</a></li>
+				</ul>
+
 </html>
