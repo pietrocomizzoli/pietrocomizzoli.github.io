@@ -1,9 +1,17 @@
 <html>
-<head>
-<link href="http://getbootstrap.com/dist/css/bootstrap.min.css" rel="stylesheet">
-</head>
-<body>
-<ul>
+	<head>
+		<link rel="icon" href="img/icona.png" type="image/png" />
+		<link rel="stylesheet" href="css/style.css">
+	    <title>Assassin's Creed ITA</title>
+		<meta charset="unicode"/>
+	</head>
+	
+	<body>
+	
+		<div id="box">
+			<div id="top"><center><img style="height:250px; width:auto; margin:25px;" src="css/img/titolo.png"/></center></div>
+			<div id="menu">
+				<ul>
 					<li><a href="#">Home</a></li>
 					<li>
 						<a href="#">Personaggi</a>
@@ -34,5 +42,17 @@
 					
 					<li><a href="info.html">Info</a></li>
 				</ul>
-
+			</div>
+			<div id="corpo">
+				<div id="immagine"><img src="css/img/immagine.jpg" /></div>
+			    <div id="testo"><h3>si<h3></div>
+			</div>
+			<div id="footer"></div>
+		</div>
+	
+	
+	
+	
+	</body>
 </html>
+
