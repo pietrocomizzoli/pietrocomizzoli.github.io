@@ -1,0 +1,9 @@
+<html>
+<head>
+<link href="http://getbootstrap.com/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body style="background-color:lightblue">
+<h1><p class="text-center">Avengers: Age of Ultron</p></h1>
+<a href="film.html" <button type="button" class="btn btn-danger">Film</button></a>
+<p class="text-center"><img src="http://cs624324.vk.me/v624324298/2de7d/qbl-ZbznOk8.jpg"></p>
+<br>
